@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/fs-84-react-node-Artemon-x58/static/js/main.4048dc9f.js",
+    "main.js": "/fs-84-react-node-Artemon-x58/static/js/main.8fdfe2a4.js",
     "static/media/Interactive-learning-experience.png": "/fs-84-react-node-Artemon-x58/static/media/Interactive-learning-experience.5603302f0747672e85d4.png",
     "static/media/Ketogenic-diet.png": "/fs-84-react-node-Artemon-x58/static/media/Ketogenic-diet.bd13d20fcd66588bb6fb.png",
     "static/media/Summer-hiking.png": "/fs-84-react-node-Artemon-x58/static/media/Summer-hiking.487152541279e1774b58.png",
@@ -14,9 +14,9 @@
     "static/media/error.svg": "/fs-84-react-node-Artemon-x58/static/media/error.bb2d6021b0a25706e178302640c022e3.svg",
     "static/media/eye-hover.svg": "/fs-84-react-node-Artemon-x58/static/media/eye-hover.7c6cdc5beb99f3e2a9ef43f719411585.svg",
     "static/media/correct.svg": "/fs-84-react-node-Artemon-x58/static/media/correct.37f002969b1336da5e0fe0040c8e2c93.svg",
-    "main.4048dc9f.js.map": "/fs-84-react-node-Artemon-x58/static/js/main.4048dc9f.js.map"
+    "main.8fdfe2a4.js.map": "/fs-84-react-node-Artemon-x58/static/js/main.8fdfe2a4.js.map"
   },
   "entrypoints": [
-    "static/js/main.4048dc9f.js"
+    "static/js/main.8fdfe2a4.js"
   ]
 }
