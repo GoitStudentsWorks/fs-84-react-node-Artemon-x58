@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <GlobalStyles />
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/team-project-part-React">
+        <BrowserRouter basename="/fs-84-react-node-Artemon-x58">
           <App />
         </BrowserRouter>
       </PersistGate>
